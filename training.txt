@@ -2,3 +2,6 @@ This is chat appcation
 Emoji
 colors
 code
+
+sark mode 
+videos
